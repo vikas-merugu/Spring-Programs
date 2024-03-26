@@ -1,0 +1,11 @@
+package com.sathya.springex1;
+
+import lombok.Data;
+
+@Data
+public class Spring {
+	private String Id;
+	private String name;
+
+	
+}

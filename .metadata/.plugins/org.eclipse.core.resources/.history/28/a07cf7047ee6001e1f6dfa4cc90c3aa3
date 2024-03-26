@@ -1,0 +1,9 @@
+package com.sathya.springex1;
+
+import lombok.Data;
+
+public class Spring {
+@Data
+	private String name;
+	private String id;
+}

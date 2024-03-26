@@ -1,0 +1,14 @@
+package com.sathya.springex1;
+
+import lombok.Data;
+import lombok.Setter;
+import lombok.ToString;
+
+@Data
+@Setter
+public class Spring {
+	private String Id;
+	private String name;
+
+	
+}
